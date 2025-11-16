@@ -1,0 +1,3 @@
+[submodule "CheatingAppBackend"]
+	path = CheatingAppBackend
+	url = git@github.com:eric-kimm/CheatingAppBackend.git
